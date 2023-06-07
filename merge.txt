@@ -1,0 +1,4 @@
+merge concept 
+using 2 branches
+compare and merge 
+main branch is safe
